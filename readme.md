@@ -25,6 +25,8 @@ that it is running, go try it out
 from your browser:
 > http://localhost/
 
+Add a :port if you changed it from the default (80))
+
 ## Shutdown
 
 If you are running powershell (within Visual Studio Code)
@@ -34,3 +36,5 @@ or Git Bash: use Ctrl-C, if not: close your cmd window.
 
 From the YouTube: Node.js Tutorial For Absolute Beginners
 by Traversy Media
+
+https://youtu.be/U8XF6AFGqlc
