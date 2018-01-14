@@ -28,3 +28,7 @@ from your browser:
 If you are running powershell (within Visual Studio Code)
 or Git Bash: use Ctrl-C, if not: close your cmd window.
 
+## Credit
+
+From the YouTube: Node.js Tutorial For Absolute Beginners
+by Traversy Media
