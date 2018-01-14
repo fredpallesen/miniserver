@@ -2,6 +2,8 @@
 
 A node js server returning one html file only.
 
+Added Januar 14 2018 by Fred Pallesen
+
 ## Requirements
 
 Node JS must be installed
